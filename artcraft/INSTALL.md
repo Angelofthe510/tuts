@@ -1,9 +1,16 @@
 # Installing ArtCraft
 
-ArtCraft ("the IDE for artists") is a free, open-source desktop app for AI image,
-video, 3D-mesh and world generation. You can compose in 2D, stage scenes in 3D, pose
+ArtCraft ("the IDE for artists") is an open-source desktop app for AI image, video,
+3D-mesh and world generation. You can compose in 2D, stage scenes in 3D, pose
 characters, and then generate. It's made by the ArtCraft team (GitHub org
 [`storytold`](https://github.com/storytold)) and licensed MIT / Apache-2.0.
+
+> **Open source does not mean free to generate.** The app and its code cost nothing,
+> but the AI models (Nano Banana, Seedance, Kling, Veo, Hunyuan 3D, and others) run on
+> paid cloud servers. Each generation uses **ArtCraft credits**, and you can't
+> generate when you run out. You can also connect accounts you already pay for
+> (Midjourney, Sora, Grok, World Labs), and those bill you through that provider.
+> Check current prices at https://getartcraft.com/ before you rely on it for a project.
 
 - Source: https://github.com/storytold/artcraft
 - Official downloads: https://getartcraft.com/
@@ -75,7 +82,9 @@ cd artcraft
 - Use **Scene Blocking / Character Posing** for previs and storyboards before a C4D
   or Premiere shoot.
 - You can plug in your existing provider accounts (Midjourney, Sora, Grok, World Labs)
-  as well as ArtCraft's own model catalog.
+  as well as ArtCraft's own model catalog. Both cost money per generation.
+- If you already pay for Adobe Creative Cloud, its Firefly generative credits cover a
+  lot of the same 2D image work.
 
 ## Help
 - Discord: https://discord.gg/artcraft
